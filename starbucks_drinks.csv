@@ -1,0 +1,19 @@
+Data Name,Description,Data Type
+Beverage_category,It states the category of the beverage,str
+Beverage,It states the name of the beverage,str
+Beverage_prep,It states how the beverage is prepared,str
+Calories,It states the calories intake of the beverage,int
+Total Fat (g),It states the Total Fat of the beverage,int
+Trans Fat (g),It states the Trans Fat of the beverage,int
+Saturated Fat (g),It states the Saturated Fat of the beverage,int
+Sodium (mg),It states the Sodium content of the beverage,int
+Total Carbohydrates (g),It states the Total Carbohydrates that can intake of the beverage,int
+Cholesterol (mg),It states the Cholesterol of the beverage,int
+Dietary Fibre (g),It states the Dietary Fibre content of the beverage,int
+Sugars (g),It states the Sugar content of the beverage,int
+Protein (g),It states the Protein of the beverage,int
+Vitamin A (% DV),It states the Vitamin A inside of the beverage,float
+Vitamin C (% DV),It states the Vitamin C inside of the beverage,float
+Calcium (% DV),It states the Calcium content of the beverage,float
+Iron (% DV),It states the Iron content of the beverage,float
+Caffeine (mg),It states the Caffeine content of the beverage,int
